@@ -11,6 +11,9 @@
       "banners": [
         {
           "img": "/img/uploads/banner1.png"
+        },
+        {
+          "img": "/img/uploads/banner2.png"
         }
       ]
     }
