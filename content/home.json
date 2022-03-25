@@ -8,7 +8,11 @@
     },
     {
       "type": "banners-grid",
-      "banners": []
+      "banners": [
+        {
+          "img": "/img/uploads/banner1.png"
+        }
+      ]
     }
   ]
 }
