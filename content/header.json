@@ -1,18 +1,11 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Ganhe 10% de desconto na primeira compra com o cupom PRIMEIRACOMPRA",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
+      {}
     ],
     "phone_wpp": true,
     "socials": true
