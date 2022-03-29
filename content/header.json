@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Ganhe 10% de desconto na primeira compra com o cupom PRIMEIRACOMPRA",
     "link": "/promotion",
-    "background": "#ffffff"
+    "background": "#ffffff",
+    "color": "#0de6df"
   },
   "contacts_stripe": {
     "pages": [
